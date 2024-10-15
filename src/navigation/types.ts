@@ -2,5 +2,8 @@
 export type RootStackParamList = {
   Home: undefined;
   Details: undefined;
-  Quiz: undefined; // Ensure the screen name matches the one used in AppNavigator
+  Quiz: undefined;
+  Loading: undefined;
+  Login: undefined;
+  Splash: undefined;
 };
